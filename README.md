@@ -1,4 +1,4 @@
-KameraKu
+KameraKu <br>
 Aplikasi KameraKu adalah implementasi sederhana dari fungsionalitas kamera di Android menggunakan pustaka CameraX (Jetpack). Aplikasi ini bertujuan untuk mendemonstrasikan integrasi live preview, pengambilan gambar, dan manajemen penyimpanan modern.
 
 Fitur Utama Aplikasi
